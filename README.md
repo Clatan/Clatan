@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Claribel!
 
-<!--
-**Clatan/Clatan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 A 5th-semester **Computer Science student** majoring in Database at **Bina Nusantara University**.  
+💡 Experienced in **data management** with skills in **data analysis, SQL, frontend development (HTML & CSS)**, and **UI/UX design**.  
+✨ Known for being **organized, creative, and adaptable**, I enjoy combining analytical and design perspectives to create efficient and meaningful solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Career Interests
+I’m passionate about **technology and digital product development**, particularly in:  
+- 🎯 **Data Analytics**  
+- 🎨 **UI/UX Design**  
+- 💻 **Frontend Development**  
+I’m also open to opportunities in **Quality Assurance** and web-based innovation projects.
+
+Currently focusing on completing my **thesis** and expanding my skills through **new projects and continuous learning**.
+
+---
+
+## 🧠 Skills
+
+**Soft Skills:** Creativity • Time Management • Adaptability • Teamwork • Responsibility • Communication  
+**Hard Skills:** Data Analysis • UI/UX Design • Programming • Project Management • Graphic Design  
+**Tools & Software:** Excel • Figma • Canva • Adobe Illustrator • HTML • CSS • PHP • SQL
+
+---
+
+## 📊 GitHub Stats
+![Claribel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=claribelaurelia&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=claribelaurelia&layout=compact&theme=radical)
+
+---
+
+## 📫 Connect With Me
+[LinkedIn](https://www.linkedin.com/in/claribelaurelia)
