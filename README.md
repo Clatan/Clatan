@@ -26,8 +26,8 @@ Currently focusing on completing my **thesis** and expanding my skills through *
 ---
 
 ## 📊 GitHub Stats
-![Claribel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=claribelaurelia&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=claribelaurelia&layout=compact&theme=radical)
+![Claribel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=clatan&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=clatan&layout=compact&theme=radical)
 
 ---
 
