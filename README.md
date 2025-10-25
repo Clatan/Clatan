@@ -31,4 +31,4 @@ Currently focusing on completing my **thesis** and expanding my skills through *
 ---
 
 ## 📫 Connect With Me
-[LinkedIn](https://www.linkedin.com/in/claribelaurelia)
+[LinkedIn](https://www.linkedin.com/in/claribelaureliatan)
