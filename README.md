@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Claribel!
 
-🎓 A 5th-semester **Computer Science student** majoring in Database at **Bina Nusantara University**.  
+🎓 A 7th-semester **Computer Science student** majoring in Database at **Bina Nusantara University**.  
 💡 Experienced in **data management** with skills in **data analysis, SQL, frontend development (HTML & CSS)**, and **UI/UX design**.  
 ✨ Known for being **organized, creative, and adaptable**, I enjoy combining analytical and design perspectives to create efficient and meaningful solutions.
 
